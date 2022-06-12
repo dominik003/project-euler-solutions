@@ -104,7 +104,7 @@ Problem 103:
 Problem 104:
 Problem 105:
 Problem 106:
-Problem 107:
+Problem 107: 259679
 Problem 108:
 Problem 109:
 Problem 110:
